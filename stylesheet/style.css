@@ -1,0 +1,30 @@
+#content{
+	background-color: #999;
+	height: 1000px;
+}
+#aside{
+	height: 1000px;
+	background-color: #333;
+	color: white;
+}
+.jumbotron{
+	height: 200px;
+	background-color: lightpink;
+}
+#middle{
+	height: 1000px;
+	background-color: #777;
+	color: white;
+}
+#test1{
+	background-color: red;
+}
+#test2{
+	background-color: blue;
+}
+#test3{
+	background-color: yellow;
+}
+#test4{
+	background-color: purple;
+}
